@@ -1,0 +1,15 @@
+.thumbnail img{
+
+	height: 175px;
+}
+.price{
+
+	font-weight: bold;
+	font-size: 16px;
+
+}
+.desciption{
+
+	color: #818181;
+
+}
